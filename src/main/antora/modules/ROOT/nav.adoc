@@ -1,0 +1,13 @@
+xref:index.adoc[]
+
+* xref:gettingstarted:main/main.adoc[Getting Started]
+
+* xref:vscode:main/main.adoc[Visual Studio Code]
+
+* xref:jakartaeeanddd:main/main.adoc[Jakarta EE and DDD]
+
+* xref:characterization:main/main.adoc[Characterization]
+
+* xref:layers:main/main.adoc[Layers]
+
+* xref:resources:main/main.adoc[Resources]
