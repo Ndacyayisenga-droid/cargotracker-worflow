@@ -2,9 +2,9 @@ name: Build and Deploy Documentation
 
 on:
   push:
-    branches: [docs] # Trigger on push to the docs branch
+    branches: [master] # Trigger on push to the docs branch
   pull_request:
-    branches: [docs] # Trigger on PR merge to the docs branch
+    branches: [master] # Trigger on PR merge to the docs branch
 
 jobs:
   build:
