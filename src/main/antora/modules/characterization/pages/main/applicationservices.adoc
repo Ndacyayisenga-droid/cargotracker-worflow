@@ -22,3 +22,7 @@ Objects (DTOs) that can be tailored to specific use cases. In that case, we
 consider the DTO-serializing facade part of the interfaces layer. See 
 https://github.com/eclipse-ee4j/cargotracker/blob/master/src/main/java/org/eclipse/cargotracker/interfaces/booking/facade/BookingServiceFacade.java[BookingServiceFacade] 
 for an example.
+
+== Data Transfer Objects (DTOs)
+
+DTOs are lightweight objects that represent the data needed to transfer
